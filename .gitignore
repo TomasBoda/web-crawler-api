@@ -1,0 +1,4 @@
+node_modules/
+out/
+src/db.ts
+.env
